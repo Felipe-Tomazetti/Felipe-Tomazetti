@@ -1,5 +1,18 @@
-### Hi there 👋
+<h2> Hi, I'm Felipe Tomazetti! <img src="https://media.giphy.com/media/l3975CZuyQgoNVuOA/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<p><em>Mechanical Engineer at <a href="http://www.utfpr.edu.br/">Universidade Tecnológica Federal do Paraná</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+</br>Front End Developer at <a href="https://www.wansoftbrazil.com/">Wansoft Brazil</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
+[![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/felipe-tomazetti/)
+[![GitHub Felipe-Tomazetti](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Felipe-Tomazetti)
+
+
+## Skills
+- 👨‍💻 TypeScript, JavaScript
+- ⚙️ React, Vue, React Native
+- 👁️ SASS, CSS
+- 💽 Mongo
 <!--
 **Felipe-Tomazetti/Felipe-Tomazetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
