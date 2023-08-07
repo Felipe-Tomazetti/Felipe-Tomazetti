@@ -5,7 +5,6 @@
 </em></p>
 
 [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/felipe-tomazetti/)
-[![GitHub Felipe-Tomazetti](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Felipe-Tomazetti)
 
 
 ## Skills
