@@ -9,9 +9,9 @@
 
 ## Skills
 - 👨‍💻 TypeScript, JavaScript
-- ⚙️ React, Vue, React Native
+- ⚙️ React, NextJS, Vue, React Native
 - 👁️ SASS, CSS
-- 💽 Mongo
+- 💽 MongoDB
 <!--
 **Felipe-Tomazetti/Felipe-Tomazetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
